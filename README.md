@@ -1,23 +1,26 @@
-# Discord-Account-Always-Onlie
-Keep your discord account always online easily!
+# 디스코드-계정-항상-온라인표시
+디스코드 계정을 항상 온라인 상태로 간편하게 유지하세요!
 
-# How to setup?
-1. Go to `https://replit.com/` and create a new account in it!
-2. Create a new repl and upload the files!
-3. Click on `Secrets (Enviroment Variables)` and `Add new scret` with the key as `TOKEN` and enter your accounts token as the value (to hide the token from the public)
-4. Save it
-5. Go back to main.py and run the file!
+# 어떻게 설정하나요?
+1. 'https://replit.com/'로 이동하여 새 계정을 생성합니다!
+2. 새 답글을 작성하고 파일을 업로드합니다!
+3. '비밀(환경 변수)`과 '새 비밀 추가'를 클릭하고 키를 '토큰'으로 설정하고 계정 토큰을 값으로 입력합니다(공개되지 않도록 토큰을 숨기려면).
+4. 저장하기
+5. main.py로 돌아가서 파일을 실행합니다!
 
-# Editing the file ~ Important
-You can customize everything easily by editing the `settings.json` except for the token, which has to be setup following the instructions in `Line 7`
+# 파일 편집하기 ~ 중요
+7번 라인의 지침에 따라 설정해야 하는 토큰을 제외한 모든 설정은 `settings.json`을 편집하여 쉽게 커스터마이징할 수 있습니다.
 
-# Keeping the repl 24x7 online!
-1. Go to `https://uptimerobot.com/`
-2. Create an account
-3. Click on Add new monitor
-4. Select monitor type as `HTTP(s)`
-5. Fill any friendly name you like to have!
-6. Paste the url that ends with `repl.co` in the `URL` section (example: `https://Always-Online-Discord.hirushaadikari.repl.co`)
-7. Click on `Create Monitor` and click it again!
+# 24시간 연중무휴 온라인 상태 유지!
+1. 'https://uptimerobot.com/'로 이동합니다.
+2. 계정 생성
+3. 새 모니터 추가를 클릭합니다.
+4. 모니터 유형을 'HTTP'로 선택합니다.
+5. 원하는 이름을 입력하세요!
+6. URL` 섹션에 `repl.co`로 끝나는 URL을 붙여넣습니다(예: `https://Always-Online-Discord.hirushaadikari.repl.co`).
+7. 모니터 생성`을 클릭하고 다시 클릭합니다!
 
-## YOU ARE ALL GOOD TO GO!
+
+
+
+Translated with www.DeepL.com/Translator (free version)
